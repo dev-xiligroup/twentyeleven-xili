@@ -13,7 +13,7 @@ http://2011.wpmu.xilione.com
 
 After installation or updating, it is fully recommanded to refresh permalinks.
 
--- a child theme needs his parent theme named twenty twelve --
+-- a child theme needs his parent theme named twenty eleven v. 1.7 --
 
 2014-02-12
 
