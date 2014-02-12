@@ -1,0 +1,837 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: theme: twentyeleven\n"
+"Report-Msgid-Bugs-To: contact@xiligroup.com\n"
+"POT-Creation-Date: 2011-12-21T14:48:51+00:00\n"
+"PO-Revision-Date: 2011-12-21T14:48:51+00:00\n"
+"Last-Translator: admin <team@xiligroup.org>\n"
+"Language-Team: xili-dictionary WP plugin and  <team@xiligroup.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: fr_FR\n"
+"X-Poedit-Country: fr_FR\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "% <span class=\"reply\">comments &rarr;</span>"
+msgstr "% <span class=\"reply\">commentaires &rarr;</span>"
+
+msgid "% advices"
+msgstr "% avis"
+
+msgid "% Comments"
+msgstr "% commentaires"
+
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "Le %2$s, %1$s <span class=\"says\">a dit&nbsp;:</span>"
+
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">dit&nbsp;:</span>"
+
+msgid "%s Theme Options"
+msgstr "Options du thème %s"
+
+msgid "%s Theme Options for multilingual features"
+msgstr "Options pour les réglages multilingues du thème %s"
+
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaire plus ancien"
+
+msgid "&larr; Previous"
+msgstr "&larr; Précédent"
+
+msgid "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr "<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> par </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+
+msgid "<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" target=\"_blank\">Documentation on Theme Options</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" target=\"_blank\">Documentation sur les options du thème (en)</a>"
+
+msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://www.wordpress-fr.net/support/\" target=\"_blank\">Forums d&rsquo;entraide en français</a>"
+
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> Réponses"
+
+msgid "<b>1</b> Reply"
+msgstr "<b>Une</b> réponse"
+
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Par</span> %2$s"
+
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Publié dans</span> %2$s"
+
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">Publié le</span> %2$s <span class=\"meta-sep\">par</span> %3$s"
+
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Publié le</span> %2$s"
+
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Mots-clefs&nbsp;:</span> %2$s"
+
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Commentaires plus anciens"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
+
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Précédent"
+
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Publié le </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> à <a href=\"%3$s\" title=\"Lien vers l'image en taille originale\">%4$s &times; %5$s</a> dans <a href=\"%6$s\" title=\"Revenir à %7$s\" rel=\"gallery\">%8$s</a>"
+
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr "<span class=\"sep\">Publié le </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> par </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+msgid "<strong>%</strong> Replies"
+msgstr ""
+
+msgid "<strong>1</strong> Reply"
+msgstr ""
+
+msgid "<strong>Color Scheme</strong>: You can choose a color palette of \"Light\" (light background with dark text) or \"Dark\" (dark background with light text) for your site."
+msgstr "<strong>Jeu de couleurs</strong>&nbsp;: vous pouvez choisir comme palette de couleurs pour votre site &laquo;&nbsp;Clair&nbsp;&raquo; (fond clair et texte foncé), ou  &laquo;&nbsp;Foncé&nbsp;&raquo; (fond foncé et texte clair)."
+
+msgid "<strong>Default Layout</strong>: You can choose if you want your site&#8217;s default layout to have a sidebar on the left, the right, or not at all."
+msgstr "<strong>Mise en page par défaut</strong>&nbsp;: si vous le souhaitez, votre site peut afficher sa barre latérale sur le côté droit, le côté gauche, ou ne pas l&rsquo;afficher du tout."
+
+msgid "<strong>Instantiate multiple navigation menus</strong>: Check if you want to create menu location for manual settings."
+msgstr "<strong>Activer les menus de navigation multilingue</strong>: Cocher pour avoir un menu par langue."
+
+msgid "<strong>Link Color</strong>: You can choose the color used for text links on your site. You can enter the HTML color or hex code, or you can choose visually by clicking the \"Select a Color\" button to pick from a color wheel."
+msgstr "<strong>Couleur des liens</strongs>&nbsp;: vous pouvez choisir la couleur des liens textuels de votre site. Saisissez le code couleur (code HTML ou hexadécimal), ou choisissez-la avec le sélecteur de couleur, en cliquant sur &laquo;&nbsp;Choisir une couleur&nbsp;&raquo;."
+
+msgid ", "
+msgstr ""
+
+msgid "0 <span class=\"reply\">comments &rarr;</span>"
+msgstr "Aucun <span class=\"reply\">commentaire &rarr;</span>"
+
+msgid "1 <span class=\"reply\">comment &rarr;</span>"
+msgstr "Un <span class=\"reply\">commentaire &rarr;</span>"
+
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+msgid "About %s"
+msgstr "À propos de %s"
+
+msgid "AM"
+msgstr ""
+
+msgid "am"
+msgstr ""
+
+msgid "An optional widget area for your site footer"
+msgstr "Une zone facultative de widgets pour le pied de page de votre site"
+
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Toutes nos excuses, mais votre requête pour cette archive n&rsquo;a donné aucun résultat. Peut-être aurez-vous plus de chance en lançant une recherche..."
+
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Toutes nos excuses, mais la page que vous demandez est introuvable. Essayez de lancer une recherche."
+
+msgid "April"
+msgstr "avril"
+
+msgid "Apr_April_abbreviation"
+msgstr "avr"
+
+msgid "Archives"
+msgstr "Archives"
+
+msgid "Aside"
+msgstr "En passant"
+
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "apartes"
+
+msgid "August"
+msgstr "août"
+
+msgid "Aug_August_abbreviation"
+msgstr "août"
+
+msgid "Author Archives: %s"
+msgstr "Archives de l&rsquo;auteur&nbsp;: %s"
+
+msgid "Berries"
+msgstr "Framboises"
+
+msgid "black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu"
+msgstr "black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu"
+
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Vous pouvez la mettre en favoris avec <a href=\"%3$s\" title=\"Permalien pour %4$s\" rel=\"bookmark\">ce permalien</a>."
+
+msgid "Cancel reply"
+msgstr "Annuler"
+
+msgid "Category Archives: %s"
+msgstr "Archives pour la catégorie %s"
+
+msgid "Cherry Blossoms"
+msgstr "Fleurs de cerisier"
+
+msgid "Chessboard"
+msgstr "Damier"
+
+msgid "Color Scheme"
+msgstr "Jeu de couleurs"
+
+msgid "Comment"
+msgstr ""
+
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+msgctxt "comments number"
+msgid "%"
+msgstr "%"
+
+msgctxt "comments number"
+msgid "1"
+msgstr "1"
+
+msgid "Concave"
+msgstr "Mirroir"
+
+msgid "Content on left"
+msgstr "Contenu à gauche"
+
+msgid "Content on right"
+msgstr "Contenu à droite"
+
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes&nbsp;:"
+
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archives quotidiennes&nbsp;: <span>%s</span>"
+
+msgid "Dark"
+msgstr "Foncé"
+
+msgid "dark, light, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready"
+msgstr "dark, light, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready"
+
+msgid "December"
+msgstr "décembre"
+
+msgid "Dec_December_abbreviation"
+msgstr "déc"
+
+msgid "Default color: %s"
+msgstr "Couleur par défaut&nbsp;:"
+
+msgid "Default Layout"
+msgstr "Mise en page par défaut"
+
+msgid "Don't forget to create a first navigation menu and save the first menu location."
+msgstr "Ne pas oublier de créer un premier menu de navigation et de le placer dans le premier emplacement."
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Email"
+msgstr "Courriel"
+
+msgid "Ephemera"
+msgstr "Éphémère"
+
+msgid "F j, Y"
+msgstr "j F Y"
+
+msgid "Featured"
+msgstr "Mis en avant"
+
+msgid "Featured Post"
+msgstr "Article mis en avant"
+
+msgid "Featuring: %s"
+msgstr "Mise en avant&nbsp;: %s"
+
+msgid "February"
+msgstr "février"
+
+msgid "Feb_February_abbreviation"
+msgstr "fév"
+
+msgid "Fern"
+msgstr "Fougère"
+
+msgid "First Footer Widget Area"
+msgstr "1ère zone de pied de page"
+
+msgid "Footer Area One"
+msgstr "Zone 1 du pied de page"
+
+msgid "Footer Area Three"
+msgstr "Zone 3 du pied de page"
+
+msgid "Footer Area Two"
+msgstr "Zone 2 du pied de page"
+
+msgid "For more information:"
+msgstr "Pour plus d&rsquo;information&nbsp;:"
+
+msgid "Forest Floor"
+msgstr "Paysage forestier"
+
+msgid "Fourth Footer Widget Area"
+msgstr "4ème zone de pied de page"
+
+msgid "Fri"
+msgstr "ven"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Full size is %s pixels"
+msgstr "La taille originale est de %s pixels"
+
+msgid "F_Friday_initial"
+msgstr "V"
+
+msgid "g:i a"
+msgstr "H:i"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "galerie"
+
+msgid "Hanoi Plant"
+msgstr "Plante de Hanoï"
+
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+msgid "http://wordpress.org/extend/themes/twentyeleven"
+msgstr "http://wordpress.org/extend/themes/twentyeleven"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Image navigation"
+msgstr "Navigation des images"
+
+msgid "Inkwell"
+msgstr "Encrier"
+
+msgid "Instantiate"
+msgstr "Instancier"
+
+msgid "Instantiate nav menu for each language"
+msgstr "Préparer les emplacements des menus de navigation pour chaque langue"
+
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche, ou à l&rsquo;aide de l&rsquo;un des lien ci-dessous."
+
+msgid "January"
+msgstr "janvier"
+
+msgid "Jan_January_abbreviation"
+msgstr "jan"
+
+msgid "July"
+msgstr "juillet"
+
+msgid "Jul_July_abbreviation"
+msgstr "juil"
+
+msgid "June"
+msgstr "juin"
+
+msgid "Jun_June_abbreviation"
+msgstr "juin"
+
+msgid "Lanterns"
+msgstr "Lanternes"
+
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+msgid "Leave a reply"
+msgstr "Laisser une réponse"
+
+msgid "Leave a Reply"
+msgstr "Laisser un commentaire"
+
+msgid "Leave a Reply to %s"
+msgstr "Répondre à %s"
+
+msgid "Light"
+msgstr "Clair"
+
+msgid "Link"
+msgstr "Lien"
+
+msgid "Link Color"
+msgstr "Couleur des liens"
+
+msgid "Link to %s"
+msgstr "Lien vers %s"
+
+msgid "Link to full-size image"
+msgstr "Lien vers l&rsquo;image originale"
+
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Connecté comme <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Se déconnecter\">Se déconnecter ?</a>"
+
+msgid "Main menu"
+msgstr "Menu principal"
+
+msgid "Main Sidebar"
+msgstr "Colonne principale"
+
+msgid "March"
+msgstr "mars"
+
+msgid "Mar_March_abbreviation"
+msgstr "mar"
+
+msgid "May"
+msgstr "mai"
+
+msgid "May_May_abbreviation"
+msgstr "mai"
+
+msgid "Meta"
+msgstr "Méta"
+
+msgid "Mon"
+msgstr "lun"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles&nbsp;: %s"
+
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archives mensuelles&nbsp;: <span>%s</span>"
+
+msgid "More Galleries"
+msgstr "Toutes les galeries"
+
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+msgid "M_Monday_initial"
+msgstr "L"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Commentaires plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "News"
+msgstr ""
+
+msgid "Next &rarr;"
+msgstr "Suivant &rarr;"
+
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
+
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+msgid "Not Found"
+msgstr "Rien de trouvé"
+
+msgid "Nothing Found"
+msgstr "Rien n&rsquo;a été trouvé"
+
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "November"
+msgstr "novembre"
+
+msgid "Nov_November_abbreviation"
+msgstr "nov"
+
+msgid "Number of posts to show:"
+msgstr "Nombre d&rsquo;articles à afficher&nbsp;:"
+
+msgid "number_format_decimal_point"
+msgstr ", "
+
+msgid "number_format_thousands_sep"
+msgstr ""
+
+msgid "October"
+msgstr "octobre"
+
+msgid "Oct_October_abbreviation"
+msgstr "oct"
+
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Une réponse à %2$s"
+msgstr[1] "%1$s réponses à %2$s"
+
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+msgstr[1] "%1$s réflexions au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+
+msgid "One-column, no sidebar"
+msgstr "Une colonne, pas de barre latérale"
+
+msgid "Overview"
+msgstr "Vue d'ensemble"
+
+msgid "Page %s"
+msgstr "Page %s"
+
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+msgid "Path"
+msgstr "Chemin"
+
+msgid "Permalink to %s"
+msgstr "Permalien vers %s"
+
+msgid "persian"
+msgstr ""
+
+msgid "Pine Cone"
+msgstr "Pomme de pin"
+
+msgid "Pingback:"
+msgstr "Ping&nbsp;:"
+
+msgid "PM"
+msgstr ""
+
+msgid "pm"
+msgstr ""
+
+msgid "Post Comment"
+msgstr "Envoyer"
+
+msgid "Post navigation"
+msgstr "Navigation des articles"
+
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+msgid "Primary Navigation"
+msgstr "Navigation principale"
+
+msgid "Primary Widget Area"
+msgstr "Zone principale de widgets"
+
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+msgid "Proudly powered by %s."
+msgstr "Fièrement propulsé par %s"
+
+msgid "Quote"
+msgstr "Citation"
+
+msgid "Read this post in"
+msgstr "Lire cet article en"
+
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+msgid "Remember to click \"Save Changes\" to save any changes you have made to the theme options."
+msgstr "N&rsquo;oubliez pas de cliquer sur &laquo;&nbsp;Enregistrer les modifications&nbsp;&raquo; pour conserver toutes les modifications apportées aux options du thème"
+
+msgid "Reply"
+msgstr "Répondre"
+
+msgid "Reply <span>&darr;</span>"
+msgstr "Répondre <span>&darr;</span>"
+
+msgid " Required fields are marked <span class=\"required\">*</span>"
+msgstr ""
+
+msgid "Return to %s"
+msgstr "Revenir à %s"
+
+msgid "Sat"
+msgstr "sam"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour %s"
+
+msgid "Second Footer Widget Area"
+msgstr "2ème zone de pied de page"
+
+msgid "Secondary Widget Area"
+msgstr "Zone secondaire de widgets"
+
+msgid "Select a Color"
+msgstr "Choisir une couleur"
+
+msgid "Semantic Personal Publishing Platform"
+msgstr "Plate-forme de publication personnelle à la pointe de la sémantique"
+
+msgid "September"
+msgstr "septembre"
+
+msgid "Sep_September_abbreviation"
+msgstr "sept"
+
+msgid "Shore"
+msgstr "Rivage"
+
+msgid "Showcase Sidebar"
+msgstr "Colonne latérale de la vitrine"
+
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+msgid "Skip to primary content"
+msgstr "Aller au contenu principal"
+
+msgid "Skip to secondary content"
+msgstr "Aller au contenu secondaire"
+
+msgid "Some themes provide customization options that are grouped together on a Theme Options screen. If you change themes, options may change or disappear, as they are theme-specific. Current theme, Twentyten-xili, provides the following Theme Options:"
+msgstr "Ce thème enfant twentyten-xili propose des personnalisations..."
+
+msgid "Some themes provide customization options that are grouped together on a Theme Options screen. If you change themes, options may change or disappear, as they are theme-specific. Your current theme, Twenty Eleven, provides the following Theme Options:"
+msgstr "Certains thèmes proposent des options de personnalisation, regroupées sur l&rsquo;écran &laquo;&nbsp;Options du thème"
+
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre critères de recherche. Veuillez réessayer avec d&rsquo;autres mots-clefs."
+
+msgid "Status"
+msgstr "Humeur du moment"
+
+msgid "Sun"
+msgstr "dim"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "Sunset"
+msgstr "Coucher du soleil"
+
+msgid "S_Saturday_initial"
+msgstr "S"
+
+msgid "S_Sunday_initial"
+msgstr "D"
+
+msgid "Tag Archives: %s"
+msgstr "Archives du mot-clef %s"
+
+msgid "Tests xili-language"
+msgstr ""
+
+msgid "The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Asides\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+msgstr "Le thème de WordPress pour 2010. Il est beau, personnalisable, simple et lisible. Appropriez-le-vous grâce en personnalisant son menu, son image d&rsquo;en-tête et son image de fond. Twenty Ten dispose de six zones de widgets (deux dans la barre latérale, quatre en pied de page), et peut exploiter vos images de Une (minitatures pour galeries, et image d&rsquo;en-tête personnalisé pour les articles et pages). Il intègre une feuille de style pour l&rsquo;impression et pour l&rsquo;éditeur visuel, un style spécial pour les articles des catégories &laquo;&nbsp;Apartés&nbsp;&raquo; et &laquo;&nbsp;Galerie&nbsp;&raquo;, et peut fonctionner sous la forme d&rsquo;une colonne seule, en enlevant la barre latérale."
+
+msgid "The 2011 theme for WordPress is sophisticated, lightweight, and adaptable. Make it yours with a custom menu, header image, and background -- then go further with available theme options for light or dark color scheme, custom link colors, and three layout choices. Twenty Eleven comes equipped with a Showcase page template that transforms your front page into a showcase to show off your best content, widget support galore (sidebar, three footer areas, and a Showcase page widget area), and a custom \"Ephemera\" widget to display your Aside, Link, Quote, or Status posts. Included are styles for print and for the admin editor, support for featured images (as custom header images on posts and pages and as large images on featured \"sticky\" posts), and special styles for six different post formats."
+msgstr "Le thème par défaut de WordPress pour 2011 est sophistiqué, léger et adaptable. Faites-le vôtre avec un menu personnalisé, une image d&rsquo;en-tête et de fond - puis aller plus loin avec les options disponibles pour les couleurs du thèmes (claires ou foncées), celle des liens, et trois choix de mise en page. Twenty-Elevent est équipé d&rsquo;un modèle de page Vitrine qui transforme votre page d&rsquo;accueil en une vitrine pour montrer vos meilleurs contenus, reconnaît de nombreux widgets (colonne latérale, pied de page à trois zones, et une zone de widget pour la page page vitrine), et un widget personnalisable Ephémères, pour afficher vos contenus écrits en passant, vos liens, citations ou humeurs du moment. Sont inclus les styles pour l&rsquo;impression et pour l&rsquo;éditeur de l&rsquo;administration, reconnaissance des images mises en avant (comme les images en-tête personnalisables par article et par page, ou la reprise en grand des images articles mis en avant), et des styles spéciaux pour six formats différents d&rsquo;articles."
+
+msgid "The first footer widget area"
+msgstr "La première zone de widgets pour le pied de page"
+
+msgid "The fourth footer widget area"
+msgstr "La quatrième zone de widgets pour le pied de page"
+
+msgid "The primary widget area"
+msgstr "La zone principale de widgets"
+
+msgid "The second footer widget area"
+msgstr "La deuxième zone de widgets pour le pied de page"
+
+msgid "The secondary widget area"
+msgstr "La zone secondaire de widgets"
+
+msgid "The sidebar for the optional Showcase Template"
+msgstr "La colonne latérale pour le modèle factultatif de vitrine"
+
+msgid "The third footer widget area"
+msgstr "La troisième zone de widgets pour le pied de page"
+
+msgid "the WordPress team"
+msgstr "L&rsquo;équipe WordPress"
+
+msgid "Theme Options"
+msgstr "Options du thème"
+
+msgid "Third Footer Widget Area"
+msgstr "3ème zone de pied de page"
+
+msgid "This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ce contenu a été publié par <a href=\"%6$s\">%5$s</a>. Mettez-le en favori avec son <a href=\"%3$s\" title=\"Permalien vers %4$s\" rel=\"bookmark\">permalien</a>."
+
+msgid "This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ce contenu a été publié dans %1$s par <a href=\"%6$s\">%5$s</a>, et marqué avec %2$s. Mettez-le en favori avec son <a href=\"%3$s\" title=\"Permalien vers %4$s\" rel=\"bookmark\">permalien</a>."
+
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ce contenu a été publié dans %1$s, et marqué avec %2$s. Mettez-le en favori avec son <a href=\"%3$s\" title=\"Permalien vers %4$s\" rel=\"bookmark\">permalien</a>."
+
+msgid "This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ce contenu a été publié dans %1$s par <a href=\"%6$s\">%5$s</a>. Mettez-le en favori avec son <a href=\"%3$s\" title=\"Permalien vers %4$s\" rel=\"bookmark\">permalien</a>."
+
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Ce contenu a été publié dans %1$s. Mettez-le en favori avec son <a href=\"%3$s\" title=\"Permalien vers %4$s\" rel=\"bookmark\">permalien</a>."
+
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Cette galerie contient <a %1$s>%2$s photo</a>."
+msgstr[1] "Cette galerie contient <a %1$s>%2$s photos</a>."
+
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "C&rsquo;est plutôt gênant, vous ne trouvez pas&nbsp;?"
+
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est protégé par un mot de passe. Veuillez le saisir pour pouvoir lire ses commentaires."
+
+msgid "Thu"
+msgstr "jeu"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Title:"
+msgstr "Titre&nbsp;:"
+
+msgid "Trolley"
+msgstr "Tramway"
+
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de voir du côté des archives mensuelles. %1$s"
+
+msgid "Tue"
+msgstr "mar"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Twenty Eleven"
+msgstr "Twenty Eleven"
+
+msgid "Twenty Eleven Ephemera"
+msgstr "Contenu éphémère de Twenty Ten"
+
+msgid "Twenty Ten"
+msgstr "Twenty Ten"
+
+msgid "T_Thursday_initial"
+msgstr "J"
+
+msgid "T_Tuesday_initial"
+msgstr "Ma"
+
+msgid "Un site utilisant Réseau WPMS_32"
+msgstr ""
+
+msgid "Undefined"
+msgstr ""
+
+msgid "Use this widget to list your recent Aside, Status, Quote, and Link posts"
+msgstr "Utiliser ce widget pour lister vos derniers contenus court&nbsp;: en passant, humeur du moment, citation, liens..."
+
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Afficher tous les articles de %s <span class=\"meta-nav\">&rarr;</span>"
+
+msgid "View Galleries"
+msgstr "Afficher les galeries"
+
+msgid "View posts in the Gallery category"
+msgstr "Afficher les articles de la catégorie Galerie"
+
+msgid "Website"
+msgstr "Site Web"
+
+msgid "Wed"
+msgstr "mer"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Wheel"
+msgstr "Roue"
+
+msgid "Willow"
+msgstr "Saule"
+
+msgid "W_Wednesday_initial"
+msgstr "Me"
+
+msgid "xili Options"
+msgstr "Options xili"
+
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles&nbsp;: %s"
+
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archives annuelles&nbsp;: <span>%s</span>"
+
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+msgid "Your email address will not be published."
+msgstr "L'adresse courriel ne sera pas publié."

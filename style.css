@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/**
+ * Theme Name: TwentyEleven-xili Multilingual Child of 2011
+ * Theme URI: http://dev.xiligroup.com/
+ * Description: TwentyEleven based but including features for multilingual context with xili-language plugin (v. 2.8.8+)
+ * Author: dev.xiligroup.com ms
+ * Author URI: http://dev.xiligroup.com/
+ * Version: 2.0
+ * Tags: child theme, tabs, multilingual, nav menu per language, rare language, rtl, farsi
+ * Template: twentyeleven
+ */
+
+/** © dev.xiligroup.com - 2012-07-16 ***/
+/**
+ * 120117 - 1.0.2 - compatible with options multiple locations (pro version)
+ * 120227 - 1.1 - fixes issues with options of parent-theme page
+ * 120416 - 1.2 - fixes WP 3.3 and WP 3.4 compat
+ * 130504 - 2.0 - based on multilingual class since 2.8.8+
+*/
+
+
+@import url('../twentyeleven/style.css'); /* the most important line of the style.css of a child from his parent twentyten */
+
+/** rtl.css is dynamically imported by XL >= 2.4 **/
+
+/* some few modifications for xili-language list */
+ul.xililanguagelist {list-style: none !important ; margin-left:0 !important ;}
+
+/* style of search form */
+#branding .xili-s-radio { clear:right; font-size:70%; width:200px; }
+.xili-s-radio span.radio-lang { border:1px dotted #f5f5f5; display:inline-block; }
+#branding .xili-s-radio .radio-lang { padding:2px 1px; }
+#branding span.radio-lang input { font-size:80%; }
+.widget_search div.xili-s-radio { font-size:90%;}
+.widget_search span.radio-lang input { font-size:90%; }
+
