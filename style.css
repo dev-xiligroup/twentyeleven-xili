@@ -3,21 +3,18 @@
 /**
  * Theme Name: TwentyEleven-xili Multilingual Child of 2011
  * Theme URI: http://dev.xiligroup.com/
- * Description: TwentyEleven based but including features for multilingual context with xili-language plugin (v. 2.10+)
+ * Description: TwentyEleven based but including features for multilingual context with xili-language plugin (v. 2.12+)
  * Author: dev.xiligroup.com ms
  * Author URI: http://dev.xiligroup.com/
- * Version: 2.1
+ * Version: 1.8.0
  * Tags: child theme, tabs, multilingual, nav menu per language, rare language, rtl, farsi
  * Template: twentyeleven
  */
 
 /** © dev.xiligroup.com - 2012-07-16 ***/
 /**
- * 120117 - 1.0.2 - compatible with options multiple locations (pro version)
- * 120227 - 1.1 - fixes issues with options of parent-theme page
- * 120416 - 1.2 - fixes WP 3.3 and WP 3.4 compat
- * 130504 - 2.0 - based on multilingual class since 2.8.8+
- * 140212 - 2.1 - updated for permalinks class since XL 2.10 and TwentyEleven v. 1.7
+ * see functions.php for history
+ * 140510 - 1.8.0 - new versioning to follow parent version 1.8 (wp 3.9.1) - and XL version 2.12+
 */
 
 

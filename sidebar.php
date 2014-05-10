@@ -1,6 +1,6 @@
 <?php
 /**
- * The Sidebar containing the main widget area.
+ * Sidebar containing the main widget area
  *
  * @package WordPress
  * @subpackage Twenty_Eleven
@@ -9,13 +9,13 @@
 
 $options = twentyeleven_get_theme_options();
 $current_layout = $options['theme_layout'];
-if ( class_exists('xili_language') ) { // if temporary disabled 
+if ( class_exists('xili_language') ) { // if temporary disabled
 	$options = get_theme_xili_options();
-	$curlang_suffix = ( the_curlang() == 'en_us' || the_curlang() == "" ) ? '' : '_'.the_curlang()  ; 
+	$curlang_suffix = ( the_curlang() == 'en_us' || the_curlang() == "" ) ? '' : '_'.the_curlang() ;
 } else {
 	$curlang_suffix = '';
 }
-if ( $curlang_suffix != '' && !isset( $options['sidebar_'.'sidebar-1'] ) ) $curlang_suffix = '' ; //display default  - no clone
+if ( $curlang_suffix != '' && !isset( $options['sidebar_'.'sidebar-1'] ) ) $curlang_suffix = '' ; //display default - no clone
 
 if ( 'content' != $current_layout ) :
 ?>
