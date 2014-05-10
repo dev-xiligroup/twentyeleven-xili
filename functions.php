@@ -170,6 +170,19 @@ function special_head() {
 	}
 }
 
+/**
+ * condition to filter adjacent links
+ * @since 1.1.4
+ *
+ */
+
+function is_xili_adjacent_filterable() {
+
+	if ( is_search () ) { // for multilingual search
+		return false;
+	}
+	return true;
+}
 
 /**
  * dynamic style for flag depending current list

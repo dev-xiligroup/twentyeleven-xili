@@ -10,7 +10,7 @@ if ( version_compare( $wp_version, '3.10.9', '>' ) ){ // to test with alpha 3.8.
 	function xili_get_adjacent_post_query_args( $query_args, $args ){
 		$current_post = get_post( $args['post'] );
 		$curlang = xiliml_get_lang_object_of_post( $current_post->ID );
-error_log('new filter');
+
 		if ( $curlang ) { // only when language is defined !
 			if ( isset ( $query_args['tax_query'] )) {
 				$query_args['tax_query'][] =
@@ -59,7 +59,7 @@ error_log('new filter');
 		return $where;
 	}
 
-	if ( class_exists('xili_language') ) {
+	if ( class_exists('xili_language') && is_xili_adjacent_filterable() ) {
 
 		add_filter('get_next_post_join','xiliml_adjacent_join_filter',10,3);
 		add_filter('get_previous_post_join','xiliml_adjacent_join_filter',10,3);
