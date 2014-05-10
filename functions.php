@@ -87,14 +87,14 @@ function twentyeleven_xilidev_setup () {
 				'hidden' => '',
 				'name' => 'Post Content',
 				/* translators: added in child functions by xili */
-				'description' => __('Will copy content in the future translated post', 'twentythirteen')
+				'description' => __('Will copy content in the future translated post', 'twentyeleven')
 		),
 			'post_parent' => array('default' => '1',
 				'data' => 'post',
 				'name' => 'Post Parent',
 				'hidden' => '1',
 				/* translators: added in child functions by xili */
-				'description' => __('Will copy translated parent id (if original has parent and translated parent)!', 'twentythirteen')
+				'description' => __('Will copy translated parent id (if original has parent and translated parent)!', 'twentyeleven')
 		))
 		); //
 
@@ -158,7 +158,7 @@ define('XILI_CATS_ALL','0');
 function special_head() {
 
 	if ( is_search() ) {
-	 	add_filter('get_search_form', 'my_langs_in_search_form_2011', 10, 1); // in multilingual-functions.php
+		add_filter('get_search_form', 'my_langs_in_search_form_2011', 10, 1); // in multilingual-functions.php
 	}
 
 	$xili_theme_options = get_theme_xili_options() ;
@@ -186,7 +186,7 @@ function twentyeleven_flags_style () {
 			$language_xili_settings = get_option('xili_language_settings');
 		}
 
-		$language_slugs_list =  array_keys ( $language_xili_settings['langs_ids_array'] ) ;
+		$language_slugs_list = array_keys ( $language_xili_settings['langs_ids_array'] ) ;
 
 		?>
 		<style type="text/css">
@@ -197,7 +197,7 @@ function twentyeleven_flags_style () {
 		$ulmenus = array();
 		foreach ( $language_slugs_list as $slug ) {
 			echo "#access ul.menu li.lang-{$slug} a {background: transparent url('{$path}/images/flags/{$slug}.png') no-repeat center 16px; padding:0 !important;}\n";
-			echo "#access li.lang-{$slug}:hover > a {background:  #efefef url('{$path}/images/flags/{$slug}.png') no-repeat center 16px !important;}\n";
+			echo "#access li.lang-{$slug}:hover > a {background: #efefef url('{$path}/images/flags/{$slug}.png') no-repeat center 16px !important;}\n";
 			$ulmenus[] = "#access ul.menu li.lang-{$slug}";
 		}
 			echo implode (', ', $ulmenus ) . " {text-indent:-9999px; width:24px; }\n";
@@ -246,7 +246,7 @@ function xiliml_new_list() {
 			$xili_widgets = get_option('widget_xili_language_widgets', array());
 			foreach ( $xili_widgets as $key => $arrprop ) {
 				if ( $key != '_multiwidget' ) {
-					if ( $arrprop['theoption'] == 'typeonenew' ) {  // widget with option for singular
+					if ( $arrprop['theoption'] == 'typeonenew' ) {	// widget with option for singular
 						if ( is_active_widget( false, 'xili_language_widgets-'.$key, 'xili_language_widgets' ) ) return false ;
 					}
 				}
