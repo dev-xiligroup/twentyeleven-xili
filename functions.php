@@ -14,13 +14,15 @@ function twentyeleven_xilidev_setup () {
 
 	$theme_domain = 'twentyeleven';
 
+	$minimum_xl_version = '2.11.9';
+
 	load_theme_textdomain( $theme_domain, get_stylesheet_directory() . '/langs' ); // now use .mo of child
 
 	$xl_required_version = false;
 
 	if ( class_exists('xili_language') ) { // if temporary disabled
 
-		$xl_required_version = version_compare ( XILILANGUAGE_VER, '2.11.99', '>' );
+		$xl_required_version = version_compare ( XILILANGUAGE_VER, $minimum_xl_version, '>' );
 
 		global $xili_language;
 
@@ -132,7 +134,7 @@ function twentyeleven_xilidev_setup () {
 
 		$msg = '
 		<div class="error">
-			<p>' . sprintf ( __('The %s child theme requires xili-language version 2.8.8+', 'twentyeleven' ), get_option( 'current_theme' ) ).'</p>
+			<p>' . sprintf ( __('The %1$s child theme requires xili-language version %2$s+', 'twentyeleven' ), get_option( 'current_theme' ), $minimum_xl_version ).'</p>
 		</div>';
 	}
 	// after activation and in themes list
