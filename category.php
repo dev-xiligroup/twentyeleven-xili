@@ -22,7 +22,7 @@ get_header(); ?>
 					<?php
 						$category_description = trim( strip_tags( category_description() ) ); // modified for easy translation without tag
 						if ( ! empty( $category_description ) )
-							echo apply_filters( 'category_archive_meta', '<div class="category-archive-meta">' . __( $category_description, 'twentyeleven' ) . '</div>' );
+							echo apply_filters( 'category_archive_meta', '<div class="category-archive-meta">' . translate( $category_description, 'twentyeleven' ) . '</div>' );
 					?>
 				</header>
 
