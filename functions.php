@@ -1,5 +1,5 @@
 <?php
-define('TWENTYELEVEN_XILI_VER', '1.8.0'); // as style.css
+define('TWENTYELEVEN_XILI_VER', '1.8.1'); // as style.css
 /**
  * twentyeleven for xili functions - + exemple de deux menus ajoutés
  * 120117 - 1.0.2 - compatible with options multiple locations (pro version)
@@ -9,6 +9,7 @@ define('TWENTYELEVEN_XILI_VER', '1.8.0'); // as style.css
  * 140212 - 2.1 - updated for permalinks class since XL 2.10 and TwentyEleven v. 1.7
  *
  * 140511 - 1.8.0 - new versioning to follow parent version 1.8 (wp 3.9.1) - and XL version 2.12+
+ * 141130 - 1.8.1 - fixes adjacent links
  */
 function twentyeleven_xilidev_setup () {
 
@@ -190,7 +191,7 @@ function is_xili_adjacent_filterable() {
  */
 function twentyeleven_flags_style () {
 
-	if ( class_exists('xili_language') ) {
+	if ( !class_exists('xili_language') ) {
 		global $xili_language ;
 		$language_xili_settings = get_option('xili_language_settings');
 		if ( !is_array( $language_xili_settings['langs_ids_array'] ) ) {
